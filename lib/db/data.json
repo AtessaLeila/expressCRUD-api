@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 737,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Jennifer Steinhauer, Abby Goodnough",
-            "title": "Contact Tracing Is Failing in Many States. Here’s Why. - The New York Times",
-            "description": "Inadequate testing and protracted delays in producing results have crippled tracking and hampered efforts to contain major outbreaks.",
-            "url": "https://www.nytimes.com/2020/07/31/health/covid-contact-tracing-tests.html",
-            "urlToImage": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-facebookJumbo.jpg",
-            "publishedAt": "2020-07-31T14:28:00Z",
-            "content": "The C.D.C. has sent about $11 billion in relief funds to states and local jurisdictions for expanding coronavirus testing and contact tracing. A survey of state health departments by National Public … [+1813 chars]"
+            "author": "Janet Adamy",
+            "title": "Families File First Wave of Covid-19 Lawsuits Against Companies Over Worker Deaths - The Wall Street Journal",
+            "description": "<ol><li>Families File First Wave of Covid-19 Lawsuits Against Companies Over Worker Deaths  The Wall Street Journal\r\n</li><li>Tyson Foods to increase virus testing in US meat plants  Fox Business\r\n</li><li>Tyson Foods launches new COVID-19 monitoring strategy…",
+            "url": "https://www.wsj.com/articles/families-file-first-wave-of-covid-19-lawsuits-against-companies-over-worker-deaths-11596137454",
+            "urlToImage": "https://si.wsj.net/public/resources/images/B3-HD520_SICKON_SOC_20200730154127.jpg",
+            "publishedAt": "2020-07-30T19:30:00Z",
+            "content": "Employers across the country are being sued by the families of workers who contend their loved ones contracted lethal cases of Covid-19 on the job, a new legal front that shows the risks of reopening… [+330 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sarah E. Needleman, Tripp Mickle, Paulo Trevisani",
+            "title": "Google, Amazon, Facebook and Apple Report Earnings — Live Updates - Wall Street Journal",
+            "description": "<ol><li>Google, Amazon, Facebook and Apple Report Earnings — Live Updates  Wall Street Journal\r\n</li><li>Congress made Amazon, Apple, Facebook, Google CEOs sweat during hearing  Business Insider\r\n</li><li>Amazon compared to heroin dealer and Facebook blasted …",
+            "url": "https://www.wsj.com/livecoverage/google-amazon-facebook-apple-earnings",
+            "urlToImage": "https://images.wsj.net/im-215121/social",
+            "publishedAt": "2020-07-30T19:13:00Z",
+            "content": "Outside of Big Tech, the nations largest videogame makers are expected to report one of their best June quarters ever.\r\nThe global pandemic has brought back lapsed videogame players, attracted newcom… [+534 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
             "author": null,
-            "title": "The biggest takeaways from the Lakers' win vs. the Clippers | Get Up - ESPN",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eVo5YmRrNkNDSDTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2020-07-31T14:00:42Z",
-            "content": null
+            "title": "Huawei Becomes World's Top Smartphone Seller, Topping Samsung and Apple",
+            "description": "Huawei shipped more smartphones than any other company in the second quarter, according to research firm Canalys. But that success comes with increasing reliance on the Chinese market, as global sales fell amid the coronavirus pandemic. Photo: Reuters/Rodrigo…",
+            "url": "https://www.wsj.com/video/huawei-becomes-world-top-smartphone-seller-topping-samsung-and-apple/AC77D187-1EE3-406C-BCDE-4FAA5FD6AA3A.html",
+            "urlToImage": "http://m.wsj.net/video/20200730/huawei1/huawei1_1280x720.jpg",
+            "publishedAt": "2020-07-30T16:33:16Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lani… [+124 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Eonline.com"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Elyse Dupre",
-            "title": "All the Times Blue Ivy, Rumi and Sir Carter Stole the Show in Beyoncé's Black Is King - E! NEWS",
-            "description": "Beyoncé and Jay-Z's kids Blue Ivy Carter, Sir Carter and Rumi Carter all appeared in Black Is King. See their cameos.",
-            "url": "https://www.eonline.com/news/1175364/all-the-times-blue-ivy-rumi-and-sir-carter-stole-the-show-in-beyonc-eacute-s-black-is-king",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020631/rs_600x600-200731054528-600-beyonce-emd-073120.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2020-07-31T13:21:00Z",
-            "content": "Beyoncé's Black Is King is finally here!\r\nThe 38-year-old singer dropped the visual album on Disney+ Friday, July 31.\r\nIt's safe to say Blue Ivy Carter, 8, and Rumi Carter and Sir Carter, 3, are the … [+2018 chars]"
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter Special GDP Report: Unhealthy",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/07/30/newsletter-special-gdp-report-unhealthy/",
+            "urlToImage": "https://images.wsj.net/im-202130",
+            "publishedAt": "2020-07-30T16:02:43Z",
+            "content": "Jul 30, 2020 12:02 pm ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. U.S. gross domestic product contracted at a 32.9% annualized pace in… [+139 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "",
-            "title": "Pelicans botched Zion Williamson's minute restriction during crunch time and it cost them a win - CBSSports.com",
-            "description": "The Pelicans dropped a game against the Jazz that they could've used to lock up a playoff spot",
-            "url": "https://www.cbssports.com/nba/news/pelicans-botched-zion-williamsons-minute-restriction-during-crunch-time-and-it-cost-them-a-win/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/07/31/d930a1d0-a056-402d-b001-2b083f19ee25/thumbnail/1200x675/da5cb75d402aaead1981b7569570f774/untitled-design-2020-07-30t215649-643.jpg",
-            "publishedAt": "2020-07-31T13:18:00Z",
-            "content": "Let's not overstate it. There's no fireable offense, grotesque coaching incompetence or shouting-match worthy argument over the reason the New Orleans Pelicans coughed up its NBA restart showdown aga… [+4111 chars]"
+            "author": "Jesse Newman, Jacob Bunge",
+            "title": "Mystery Seeds Spread Around World...",
+            "description": "Mystery Seeds Spread Around World...\r\n\n \n \n \n (Second column, 18th story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+            "url": "https://www.wsj.com/articles/mystery-seeds-spread-around-the-world-11596119184",
+            "urlToImage": "https://images.wsj.net/im-214867/social",
+            "publishedAt": "2020-07-30T14:52:40Z",
+            "content": "The case of the mystery seeds showing up in U.S. mailboxes from shippers in China and other countries has gone global.\r\nThe U.S. Department of Agriculture said consumers in at least 22 U.S. states an… [+148 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "TigerNet"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Tony Crumpton",
-            "title": "Former Clemson tight end waived by Bucs - TigerNet",
-            "description": "The Tampa Bay Buccaneers announced on Thursday that they have waived fourth-year tight end Jordan Leggett. Rob Gronkowski, O.J. Howard, and Cameron Brate are th",
-            "url": "https://www.tigernet.com/update/Former-Clemson-tight-end-waived-by-Bucs-35914",
-            "urlToImage": "https://2cic.nyc3.cdn.digitaloceanspaces.com/t/stories/19/football/leggett-usat-douglas-defelice.jpg",
-            "publishedAt": "2020-07-31T13:13:23Z",
-            "content": "The Tampa Bay Buccaneers announced on Thursday that they have waived fourth-year tight end \r\nJordan Leggett. \r\nRob Gronkowski, O.J. Howard, and Cameron Brate are the frontrunners for playing time at … [+328 chars]"
+            "author": "Christopher Mims",
+            "title": "Republicans and Democrats Find a Point of Agreement: Big Tech Is Too Powerful",
+            "description": "The unified anger over the reach of Amazon, Apple, Facebook and Google could signal future action by Congress",
+            "url": "https://www.wsj.com/articles/republicans-and-democrats-find-a-point-of-agreement-big-tech-is-too-powerful-11596118625",
+            "urlToImage": "https://images.wsj.net/im-214924/social",
+            "publishedAt": "2020-07-30T14:27:35Z",
+            "content": "If the partisans of Americas elected leadership seem to agree on almost nothing these days, Wednesdays Big Tech antitrust hearing was stark evidence that they do share one common target.\r\nDespite wha… [+329 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "MarketWatch",
-            "title": "How Apple’s stock split will change the pecking order in the 124-year old Dow industrials - MarketWatch",
-            "description": "",
-            "url": "https://www.marketwatch.com/story/how-apples-stock-split-will-change-the-pecking-order-in-the-124-year-old-dow-industrials-2020-07-31",
-            "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-            "publishedAt": "2020-07-31T13:00:00Z",
-            "content": "The iPhone maker on Thursday announced that its board approved the stock split. The split will impact owners of record as of Aug. 24 and Apple AAPL's shares, which closed at $384.76 on Thursday, will… [+1350 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lauren Feiner",
-            "title": "Tech competitors are 'blown away' by Congress' CEO grilling and hopeful for antitrust reform - CNBC",
-            "description": "Competitors who have complained about Big Tech said this week's hearing succeeded in showing something is wrong in monopolistic digital markets.",
-            "url": "https://www.cnbc.com/2020/07/31/big-tech-competitors-were-blown-away-by-house-antitrust-ceo-hearing.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106640508-15961178252020-07-30t001739z_1987753446_rc293i9ebz25_rtrmadp_0_usa-tech-congress.jpeg?v=1596118034",
-            "publishedAt": "2020-07-31T12:50:00Z",
-            "content": "David Heinemeier Hansson said he was \"smiling broadly\" by the end of Congress' grilling of the four Big Tech CEOs this week.\r\n\"I was frankly blown away,\" said Heinemeier Hansson, co-founder of Baseca… [+7507 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Sara M Moniuszko",
-            "title": "Taylor Swift responds to accusation she copied 'Folklore' logo from Black designer - USA TODAY",
-            "description": "Taylor Swift has responded to accusations that she stole the logo of her latest merchandise for \"Folklore\" from Black designer Amira Rasool's company.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2020/07/31/taylor-swift-responds-folklore-logo-claims-black-designer/5553278002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/26/USAT/d9effb96-66e4-4812-88f3-8d285ab74970-GTY_1155989173.JPG?crop=3999,2249,x0,y271&width=3200&height=1680&fit=bounds",
-            "publishedAt": "2020-07-31T12:27:02Z",
-            "content": "From her first album \"Taylor Swift\" to \"Lover,\" Taylor Swift continues to make her mark on the music industry.\r\nUSA TODAY\r\nAfter being accused of copying a merchandise logo from a Black designer, Tay… [+2972 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "James Rogers",
-            "title": "NASA astronauts Doug Hurley and Bob Behnken prepare for historic return to Earth in SpaceX capsule - Fox News",
-            "description": "NASA astronauts Doug Hurley and Bob Behnken are making preparations for their historic return to Earth Sunday.",
-            "url": "https://www.foxnews.com/science/nasa-astronauts-doug-hurley-bob-behnken-prepare-return-to-earth-spacex",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/SpaceXNASACarMay30Getty20.jpg",
-            "publishedAt": "2020-07-31T12:16:13Z",
-            "content": "NASA astronauts Doug Hurley and Bob Behnken are making preparations for their historic return to Earth Sunday.\r\nThe SpaceX Crew Dragon spacecraft, named “Endeavour” by the astronauts, is scheduled to… [+3607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Meredith",
-            "title": "UK PM Boris Johnson postpones easing of coronavirus lockdown measures in England - CNBC",
-            "description": "The move comes after the government imposed restrictions across swathes of northern England following a rise in the rate of transmissions.",
-            "url": "https://www.cnbc.com/2020/07/31/coronavirus-uk-postpones-easing-of-lockdown-restrictions-in-england.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106642330-1596197100016-gettyimages-1227851983-54808043.jpeg?v=1596197165",
-            "publishedAt": "2020-07-31T12:15:00Z",
-            "content": "U.K. Prime Minister Boris Johnson on Friday announced a delay to the further easing of coronavirus restrictions in England for at least two weeks.\r\nA relaxation of restrictions had initially been sch… [+1108 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "J. Edward Moreno",
-            "title": "US pledges $2.1 billion to Glaxo, Sanofi for coronavirus vaccine | TheHill - The Hill",
-            "description": "The U.S. government will pay $2.1 billion to the drugmakers Glaxo...",
-            "url": "https://thehill.com/homenews/news/509925-us-pledges-21-billion-to-glaxo-sanofi-for-coronavirus-vaccine",
-            "urlToImage": "https://thehill.com/sites/default/files/ca_pfizervaccine_042920istock_2.jpg",
-            "publishedAt": "2020-07-31T12:12:51Z",
-            "content": "The U.S. government will pay $2.1 billion to the drugmakers Glaxo and Sanofi for the production of COVID-19 vaccines for up to 50 million people, tests and treatments, the companiesannounced Friday.\r… [+1466 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Mindy Weisberger",
-            "title": "Mind-controlling fungus makes zombie cicadas lure other cicadas to a zombie fate - Live Science",
-            "description": "After the fungus infects cicadas, it enlists their help to make more zombies.",
-            "url": "https://www.livescience.com/zombie-cicadas-lure-victims.html",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5TuVo7brPmT9Uier5uoQcV-1200-80.jpg",
-            "publishedAt": "2020-07-31T12:12:00Z",
-            "content": "Male cicadas\r\n infected by a particularly gruesome parasitic fungus become zombies\r\n with an undercover mission: They broadcast a female's sexy come-hither message to other male cicadas, luring their… [+4140 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
             "author": null,
-            "title": "Hong Kong asks China’s top legislative body to resolve legal problems with postponing elections - POLITICO",
-            "description": "Chief Executive Carrie Lam Cheng Yuet-ngor announced the controversial move on Friday.",
-            "url": "https://www.politico.com/news/2020/07/31/hong-kong-china-legal-problems-postponing-elections-389348",
-            "urlToImage": "https://static.politico.com/6b/ca/25156fad4a508534e2f84205bf40/200731-carrie-lam-gty-773.jpg",
-            "publishedAt": "2020-07-31T11:55:00Z",
-            "content": "Since January, we have been fighting the pandemic for seven months. This pandemic has dealt a heavy blow to our economy, she said. Some people have said that if I am not postponing the elections, the… [+5836 chars]"
+            "title": "NASA's Perseverance Rover Rockets Toward Mars",
+            "description": "The $2.7 billion Perseverance rover spacecraft launched from Cape Canaveral Thursday on a 300-million-mile journey to Mars. The vehicle, equipped with cameras, computers and experiments, is on a mission to find signs of past life. Photo: Joe Skipper/Reuters",
+            "url": "https://www.wsj.com/video/nasa-perseverance-rover-rockets-toward-mars/4C398399-528B-49F9-B660-828D3FC31404.html",
+            "urlToImage": "http://m.wsj.net/video/20200730/rocketlaunch1/rocketlaunch1_1280x720.jpg",
+            "publishedAt": "2020-07-30T14:24:55Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lani… [+124 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Paul LeBlanc, CNN",
-            "title": "Video resurfaces of Trump struggling to vote in person in 2004 as he ramps up attacks on mail-in voting - CNN",
-            "description": "Video of then-businessman Donald Trump struggling to vote in-person before declaring he would fill out an absentee ballot in 2004 has resurfaced this week amid a new round of unfounded attacks on mail-in voting from the President.",
-            "url": "https://www.cnn.com/2020/07/31/politics/trump-vote-by-mail-provisional-ballot-2004-video/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200728210114-trump-briefing-07-28-2020-super-tease.jpg",
-            "publishedAt": "2020-07-31T11:46:00Z",
-            "content": "Washington (CNN)Video of then-businessman Donald Trump struggling to vote in-person before declaring he would fill out an absentee ballot in 2004 has resurfaced this week amid a new round of unfounde… [+3356 chars]"
+            "author": null,
+            "title": "Cyber Daily: Big Banks Want Simpler Cloud Security | Senate Republicans Propose $53 Million to Protect Covid-19 Research - The Wall Street Journal",
+            "description": "It’s the latest move by companies to assert control over how their data is stored in the cloud, partly because of cybersecurity incidents linked to poorly secured cloud services. Other news: China hacked the Vatican, cybersecurity firm says; Treasury Departme…",
+            "url": "https://www.wsj.com/articles/cyber-daily-big-banks-want-simpler-cloud-security-senate-republicans-propose-53-million-to-protect-covid-19-research-11596113961",
+            "urlToImage": "https://s.wsj.net/img/meta/wsj-social-share.png",
+            "publishedAt": "2020-07-30T14:23:00Z",
+            "content": "Hello.\r\n Morgan Stanley\r\nand financial-data company Refinitiv Holdings are working with other financial firms, and cloud providers, to create best practices for moving and managing data in the cloud.… [+3720 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Ryan Gaydos",
-            "title": "LeBron James on kneeling protest during national anthem: 'I hope we made Kap proud' - Fox News",
-            "description": "LeBron James and his Los Angeles Lakers teammates along with Los Angeles Clippers, Utah Jazz and New Orleans Pelicans players knelt during the national anthem to protest racial injustice and police brutality.",
-            "url": "https://www.foxnews.com/sports/lebron-james-kneeling-protest-during-national-anthem-kaepernick",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/LeBron-James11.jpg",
-            "publishedAt": "2020-07-31T11:22:32Z",
-            "content": "LeBron James and his Los Angeles Lakers teammates, along with Los Angeles Clippers, Utah Jazz and New Orleans Pelicans players, knelt during the national anthem Thursday to protest racial injustice a… [+1559 chars]"
+            "author": "Elaine Chen",
+            "title": "Drugmakers Race to Build Covid-19 Vaccine Supply Chains - The Wall Street Journal",
+            "description": "<ol><li>Drugmakers Race to Build Covid-19 Vaccine Supply Chains  The Wall Street Journal\r\n</li><li>Report: Moderna Sets Price Range for Coronavirus Vaccine  Motley Fool\r\n</li><li>Pfizer exec says company hopes to have COVID-19 vaccine ready by end of year  WC…",
+            "url": "https://www.wsj.com/articles/drugmakers-race-to-build-covid-19-vaccine-supply-chains-11596101586",
+            "urlToImage": "https://images.wsj.net/im-214729/social",
+            "publishedAt": "2020-07-30T12:41:00Z",
+            "content": "Pharmaceutical companies that are racing to develop vaccines for the coronavirus are already working behind the scenes to build the supply chains needed to deliver their drugs to billions of people a… [+8250 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "James Paton",
-            "title": "U.S. Pledges Up to $2.1 Billion for Sanofi, GlaxoSmithKline Covid Vaccine - Bloomberg",
-            "description": "The Trump administration will provide as much as $2.1 billion to Covid-19 vaccine partners Sanofi and GlaxoSmithKline Plc, the biggest U.S. investment yet in fast-tracking shots and snapping up supplies.",
-            "url": "https://www.bloomberg.com/news/articles/2020-07-31/u-s-pledges-up-to-2-1-billion-for-sanofi-glaxo-covid-vaccine",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifwxyGbs71RQ/v0/1200x800.jpg",
-            "publishedAt": "2020-07-31T11:00:00Z",
-            "content": "The Trump administration will provide as much as $2.1 billion to Covid-19 vaccine partners \r\nSanofi and \r\nGlaxoSmithKline Plc, the biggest U.S. investment yet in fast-tracking shots and snapping up s… [+3977 chars]"
+            "author": "nickles",
+            "title": "U.S. Economy Contracts by Record 32.9%",
+            "description": "Article URL: https://www.wsj.com/articles/us-economy-gdp-report-second-quarter-coronavirus-11596061406\nComments URL: https://news.ycombinator.com/item?id=23997362\nPoints: 5\n# Comments: 0",
+            "url": "https://www.wsj.com/articles/us-economy-gdp-report-second-quarter-coronavirus-11596061406",
+            "urlToImage": "https://images.wsj.net/im-214725/social",
+            "publishedAt": "2020-07-30T12:37:28Z",
+            "content": "The U.S. economy contracted at a record 32.9% annual rate last quarter and weekly jobless claims rose to 1.43 million, amid signs of a slowing recovery.\r\nThe Commerce Departments initial estimate of … [+323 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Ledyard King and Jim Sergent",
-            "title": "$1,200 checks? Money for schools? Breaking down what Republicans and Democrats want in the coronavirus stimulus plan - USA TODAY",
-            "description": "Democrats and Republicans both want more $1,200 stimulus checks, but huge differences remain in the latest negotiations over coronavirus relief.",
-            "url": "https://www.usatoday.com/in-depth/news/2020/07/31/second-coronavirus-stimulus-checks-schools-how-proposals-differ/5528514002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2020/07/29/USAT/2906139f-38c7-4607-8a89-3461273501c1-promo.png?crop=902,507,x308,y48&width=1200",
-            "publishedAt": "2020-07-31T10:56:00Z",
-            "content": "Congress has approved roughly $2.5 trillion since March to rescue an economy battered by the COVID-19 pandemic.\r\nAnd it doesn't look like it will be nearly enough.\r\nLawmakers are working on a fifth r… [+3977 chars]"
+            "author": "Katy McLaughlin",
+            "title": "What Buildings Will Look Like After Covid...",
+            "description": "What Buildings Will Look Like After Covid...\r\n\n \n \n \n (Second column, 21st story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Europe Has No Plan to Let Americans Back In Any Time Soon...\r\nMan given 1% chance of surviving makes it out of hospital...\r\nHow lockdowns chan…",
+            "url": "https://www.wsj.com/articles/what-buildings-will-look-like-after-the-covid-crisis-11596040879",
+            "urlToImage": "https://images.wsj.net/im-214038/social",
+            "publishedAt": "2020-07-30T11:34:38Z",
+            "content": "Someday, years from now, a resident will wake up in their luxury condominium at developer Gregg Covins The Cedars Lodge &amp; Spa in Hendersonville, N.C. Theyll make breakfast on the island in their … [+328 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Rodrigo Pedroso and Amy Woodyatt, CNN",
-            "title": "Brazil's Bolsonaro says he has 'mold' in his lungs as his wife tests positive for Covid-19 - CNN",
-            "description": "Brazil's President Jair Bolsonaro said on Thursday he felt weak and might have \"mold in the lung\" having spent weeks in isolation after catching Covid-19.",
-            "url": "https://www.cnn.com/2020/07/31/americas/brazil-bolsonaro-mold-lungs-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200731090728-01-jair-and-michelle-bolsonaro-0729-super-tease.jpg",
-            "publishedAt": "2020-07-31T10:53:00Z",
+            "author": null,
+            "title": "What’s Next: Trump Administration, Oregon to Reduce Federal Forces",
+            "description": "Oregon and the Trump administration said they reached a deal for federal agents to begin withdrawing from Portland. WSJ's Miriam Gottfried reports on the significance of the agreement and what’s next for the protest-shaken state. Photo: Caitlin Ochs/Reuters",
+            "url": "https://www.wsj.com/video/whats-next-trump-administration-oregon-to-reduce-federal-forces/3D9AA04E-3E61-43FF-9941-B0B3498A4802.html",
+            "urlToImage": "http://m.wsj.net/video/20200730/portland.vid073020/portland.vid073020_1280x720.jpg",
+            "publishedAt": "2020-07-30T11:17:53Z",
+            "content": "Takeaways From Big Tech's Antitrust Hearing\r\n7/30/2020The CEOs of Amazon, Apple, Facebook and Google faced tough questions and, at times, hostile criticism about their business practices during a Hou… [+189 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sharon Terlep",
+            "title": "Procter & Gamble Posts Biggest Yearly Sales Gain Since 2006 - The Wall Street Journal",
+            "description": "<ol><li>Procter & Gamble Posts Biggest Yearly Sales Gain Since 2006  The Wall Street Journal\r\n</li><li>Procter & Gamble sales rise 4% as consumers buy more cleaning products  CNBC\r\n</li><li>P&G stock hits all-time high as product sales soar amid pandemic  Cin…",
+            "url": "https://www.wsj.com/articles/procter-gamble-posts-biggest-yearly-sales-gain-since-2006-11596106800",
+            "urlToImage": "https://images.wsj.net/im-214809/social",
+            "publishedAt": "2020-07-30T11:00:00Z",
+            "content": "Procter &amp; Gamble Co., maker of household staples from Tide detergent to Charmin toilet paper, posted its strongest annual sales gain since 2006 as the pandemic kept the worlds consumers at home a… [+328 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Takeaways From Big Tech's Antitrust Hearing",
+            "description": "The CEOs of Amazon, Apple, Facebook and Google faced tough questions and, at times, hostile criticism about their business practices during a House antitrust hearing. The session highlighted how four of America’s five most valuable companies are under scrutin…",
+            "url": "https://www.wsj.com/video/takeaways-from-big-tech-antitrust-hearing/49D4A55B-F6F8-4690-9590-BCD0F1B288AE.html",
+            "urlToImage": "http://m.wsj.net/video/20200730/073020bigtechtakeaway0/073020bigtechtakeaway0_1280x720.jpg",
+            "publishedAt": "2020-07-30T10:48:51Z",
+            "content": "Takeaways From Big Tech's Antitrust Hearing\r\n7/30/2020The CEOs of Amazon, Apple, Facebook and Google faced tough questions and, at times, hostile criticism about their business practices during a Hou… [+189 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dan Strumpf",
+            "title": "Huawei Rides China Recovery to Top of Smartphone World",
+            "description": "The tech giant unseated Samsung as No. 1 vendor world-wide, but is increasingly reliant on Chinese sales",
+            "url": "https://www.wsj.com/articles/huawei-rides-china-recovery-to-top-of-smartphone-world-11596105186",
+            "urlToImage": "https://images.wsj.net/im-214848/social",
+            "publishedAt": "2020-07-30T10:45:36Z",
+            "content": "HONG KONGHuawei Technologies Co. achieved its goal of becoming the worlds top seller of smartphones, fueled by the rapid economic recovery in its home market of China.\r\nA yearslong slump in the globa… [+337 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: It’s Going to Be Ugly",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/07/30/newsletter-its-going-to-be-ugly/",
+            "urlToImage": "https://images.wsj.net/im-212777",
+            "publishedAt": "2020-07-30T10:39:51Z",
+            "content": "Jul 30, 2020 6:39 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. A historic GDP report is due out today. We’ll have a special edition … [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kate O’Keeffe, Aruna Viswanatha",
+            "title": "Report Sheds Light On China’s Use Of Military-Linked Researchers",
+            "description": "Image credit: \r\nistockFeatured\r\nfeaturing Hoover Institutionvia The Wall Street JournalThe Hoover Institution report, Global Engagement: Rethinking Risk In The Research Enterprise, finds extensive collaboration on 254 papers by U.S. and China researchers; say…",
+            "url": "https://www.wsj.com/articles/report-sheds-light-on-chinas-use-of-military-linked-researchers-11596092462",
+            "urlToImage": "https://images.wsj.net/im-214798/social",
+            "publishedAt": "2020-07-30T10:18:00Z",
+            "content": "WASHINGTONResearchers in the U.S. have engaged in extensive collaboration with counterparts affiliated with the Chinese military, potentially boosting Chinas potency as a rival, according to a new re… [+328 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff",
+            "title": "WSJ Wealth Adviser Briefing: Risky Europe Bonds, Commercial-Property Owners, Future of Travel",
+            "description": "The riskiest bonds have been on the rise in Europe; new legislation would aid cash-strapped commercial-property owners, and industry experts saw a lasting decline in business travel, but think leisure travel will bounce back.",
+            "url": "https://blogs.wsj.com/moneybeat/2020/07/30/wsj-wealth-adviser-briefing-risky-europe-bonds-commercial-property-owners-future-of-travel/",
+            "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+            "publishedAt": "2020-07-30T10:00:40Z",
+            "content": "Jul 30, 2020 6:00 am ET\r\n LPL Financial serves as the brokerage backbone for more than 2,500 financial advisors at hundreds of U.S. banks and credit unions. But it just landed its biggest bank partne… [+160 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "The Office Redesign Has Only Just Begun",
+            "description": "Plexiglass dividers and floor decals might not be permanent, but the pandemic will bring lasting change to offices. Experts from the architecture and real-estate industries share how they are getting back to work and what offices will look like in the future.…",
+            "url": "https://www.wsj.com/video/the-office-redesign-has-only-just-begun/93CDF89A-AA8B-4784-802C-F55F92EB618A.html",
+            "urlToImage": "http://m.wsj.net/video/20200729/072030officedesign/072030officedesign_1280x720.jpg",
+            "publishedAt": "2020-07-30T10:00:00Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lani… [+124 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "WSJ Opinion: A Biden Presidency Won't Help Black School Children",
+            "description": "Wonder Land: Voters can’t pretend a Biden presidency will help the black children trapped in failing inner-city schools. Images: Getty Images Composite: Mark Kelly",
+            "url": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-a-biden-presidency-wont-help-black-school-children/E8ADE0D1-97DA-413D-86A1-BDA42D0CB129",
+            "urlToImage": "http://m.wsj.net/video/20200729/072920opvidwonderland/072920opvidwonderland_1280x720.jpg",
+            "publishedAt": "2020-07-30T00:34:41Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Madeline Holcombe and Joe Sutton, CNN",
-            "title": "1 Marine dead and 8 others missing after amphibious vehicle accident off California coast - CNN",
-            "description": "At least one Marine has died and eight others are missing after an accident involving an amphibious vehicle off the coast of Southern California.",
-            "url": "https://www.cnn.com/2020/07/31/politics/marine-death-amphibious-vehicle/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200731110908-01-file-15th-marine-expeditionary-unit-super-tease.jpg",
-            "publishedAt": "2020-07-31T10:24:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Saloni Sardana",
-            "title": "Eurozone GDP shrinks at the fastest rate in history, losing 12.1% in the second quarter - Business Insider",
-            "description": "Eurozone GDP shrinks at the fastest rate in history, losing 12.1% in the second quarter",
-            "url": "https://www.businessinsider.com/eurozone-gdp-contracts-12-in-q2-worst-rate-since-1995-2020-7",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5e7dfb4cba85ee5f924b0d37-800/2020-03-27t130839z1lynxmpeg2q12yrtroptp3health-coronavirus-eu.jpg",
-            "publishedAt": "2020-07-31T10:20:49Z",
-            "content": "Reuters\r\nEurozone GDP fell by 12.1% in the second quarter of the year, its biggest single quarter drop in history as the coronavirus' true impact on the continent's economy emerges.\r\nGDP fell by 12.1… [+2042 chars]"
         }
     ]
 }
