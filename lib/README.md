@@ -1,12 +1,18 @@
 # Express CRUD API
 
-Built a JSON API using Mongoose and Express and newsapi.org was the API.
+Built a JSON API from newsapi.org using Mongoose and Express.
 
-## Routes
+## All Articles
 
-All Articles: https://calm-reaches-73008.herokuapp.com/article
-Show Index: https://calm-reaches-73008.herokuapp.com/article/:id
-Show Author: https://calm-reaches-73008.herokuapp.com/article/author/:author
+https://calm-reaches-73008.herokuapp.com/article
+
+## Show Index
+
+https://calm-reaches-73008.herokuapp.com/article/:id
+
+## Show Author
+
+https://calm-reaches-73008.herokuapp.com/article/author/:author
 
 
 ## Contact Me
